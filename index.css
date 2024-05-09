@@ -1,0 +1,41 @@
+.col{
+    background-color: rgb(38, 36, 36);
+    width: 400px;
+    height: 400px;
+    border-radius: 15px;
+    margin: auto;
+    margin-top: 3rem;
+
+}
+
+.screen{
+    width: 350px;
+    height: 40px;
+    border-radius: 15px;
+    margin-top: 1rem;
+    font-size: 15px;
+    text-align: right;
+    font-weight: 500;
+}
+
+button{
+    margin-top: 2rem;
+    width: 70px;
+    height: auto;
+    margin-left: 0.5rem;
+    border-radius: 15px;
+
+}
+
+
+button:hover{
+    border: 2px solid yellowgreen;
+}
+
+.special{
+    background-color: coral;
+}
+
+#clear{
+    background-color: red;
+}
